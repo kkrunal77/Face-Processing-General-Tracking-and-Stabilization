@@ -182,7 +182,7 @@ python-dateutil==2.7.5
 python-utils==2.3.0
 pytz==2018.7
 PyWavelets==1.0.1
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==17.1.2
 qtconsole==4.4.3
 queuelib==1.5.0
