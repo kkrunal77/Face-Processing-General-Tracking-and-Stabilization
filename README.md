@@ -381,7 +381,7 @@ The technique we describe next is called Optical Flow and it uses pixel informat
 
 
 
-# Ruing code
+# Running code
 
 install requirements.txt
 
@@ -408,6 +408,12 @@ To close the window press hard key 'q' and space(32) for unsuitability point
 if cv2.waitKey(1) & 0xFF == ord('q'):
 	showStabilized = not showStabilized
 ```
+
+
+
+My Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kbxufPrOLuo/0.jpg)](https://www.youtube.com/watch?v=kbxufPrOLuo)
 
 
 
