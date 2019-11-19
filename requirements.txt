@@ -235,7 +235,7 @@ w3lib==1.21.0
 Wand==0.5.4
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 wrapt==1.11.2
 zope.interface==4.6.0
