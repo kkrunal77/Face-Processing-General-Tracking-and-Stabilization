@@ -88,7 +88,7 @@ h2o==3.22.0.2
 h5py==2.8.0
 hashids==1.2.0
 html5lib==1.0.1
-httplib2==0.12.0
+httplib2==0.18.0
 humanize==0.5.1
 hyperlink==19.0.0
 idna==2.7
