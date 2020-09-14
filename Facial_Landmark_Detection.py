@@ -813,10 +813,3 @@ while(cap.isOpened() and cap1.isOpened()):
 
 cv2.destroyAllwindows()
 cap.release()
-
-
-# In[ ]:
-
-
-
-
